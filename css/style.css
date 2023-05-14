@@ -53,33 +53,18 @@ body {
   color: var(--active-color);
 }
 
-.adress-list-item {
-  font-style: normal;
-}
-
 .adress-contact-link {
   font-size: var(--main-font-size);
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: inherit;
+  font-style: normal;
 }
-
-/* .adress-phone {
-  font-size: var(--main-font-size);
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: inherit;
-} */
 
 .adress-contact-link:hover,
 .adress-contact-link:focus {
   color: var(--active-color);
 }
-
-/* .adress-phone:hover,
-.adress-phone:focus {
-  color: var(--active-color);
-} */
 
 /* Стилізація Hero */
 
@@ -187,7 +172,7 @@ body {
   text-decoration: none;
 }
 
-.logo-footer-aсcent {
+.footer-logo-text {
   color: #f4f4fd;
 }
 
